@@ -1,0 +1,6 @@
+# Ignorar arquivos de configuração do Firebase
+firebase-debug.log
+.firebase/
+
+# Ignorar dependências
+node_modules/
